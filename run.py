@@ -1,1 +1,3 @@
-import sex
+chmod 777 rand
+
+./rand
